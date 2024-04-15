@@ -27,5 +27,5 @@
 - Explore advanced machine learning models to predict employee attrition.
 - Conduct surveys or interviews to gather more qualitative data for analysis.
 
-# Contributors
+# Contributor
 Unnati Agarwal
