@@ -23,9 +23,5 @@
   The project aims to provide valuable insights into the factors influencing employee attrition, which can be used by organizations to improve employee retention 
   and overall workforce satisfaction.
 
-# Future Work
-- Explore advanced machine learning models to predict employee attrition.
-- Conduct surveys or interviews to gather more qualitative data for analysis.
-
 # Contributor
 Unnati Agarwal
